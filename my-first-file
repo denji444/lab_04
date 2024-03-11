@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+cout<< "Muhammad Bilal Saleem";
+cout<< "23-SET-016";
+//addition
+cout << "the addition of two number are:"<<a+b;
+
+return 0;
+}
